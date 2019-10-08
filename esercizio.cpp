@@ -12,6 +12,8 @@ int main() {
 	cout<<"inserisci secondo numero"<<endl;
 	cin>>b;
 	
+	somma=a+b;
+	cout<<"la somma e'"<<somma<<endl;
 	
 	
 }
