@@ -3,6 +3,15 @@
 using namespace std;
 
 int main() {
-	cout << "Ciao Mondo!" << endl;
-	cout << "Buongiorno" << endl;
+
+	int a, b;
+	int somma=0;
+	cout<<"inserisci primo numero"<<endl;
+	cin>>a;
+	cout<<"inserisci secondo numero"<<endl;
+	cin>>b;
+	
+	
+	
+	
 }
