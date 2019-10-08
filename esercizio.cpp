@@ -14,6 +14,6 @@ int main() {
 	
 	somma=a+b;
 	cout<<"la somma e'"<<somma<<endl;
-	
+	cout<<"FINE/END"<<endl;
 	
 }
